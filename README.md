@@ -6,7 +6,6 @@ This project analyzes real estate data in Egypt. It includes data preprocessing,
 ## Project Structure
 - `data/`: contains raw and processed datasets.
 - `notebooks/`: contains Jupyter notebooks for data exploration.
-- `src/`: contains scripts for data processing and modeling.
 - `requirements.txt`: Python dependencies.
 
 ## How to Run
