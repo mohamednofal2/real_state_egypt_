@@ -1,7 +1,7 @@
 # Real State Egypt
 
 ## Description
-This project analyzes real estate data in Egypt. It includes data preprocessing, exploration, and machine learning models to predict property prices (أو أي هدف من المشروع حسب الكود).
+This project analyzes real estate data in Egypt. It includes data preprocessing, exploration, and machine learning models to predict property prices.
 
 ## Project Structure
 - `data/`: contains raw and processed datasets.
